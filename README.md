@@ -1,9 +1,5 @@
-<p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
-</p>
-
 <h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
+    <img alt="Letmeask" src="/src/assets/images/cover.svg" />
 </h1>
 
 <br>
@@ -18,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Como executar
 
-Clone o projeto e acesse a pasta do mesmo.
+Clone o projeto e abra a pasta.
 
 ```bash
 $ git clone https://github.com/rocketseat-education/nlw-06-reactjs
@@ -33,7 +29,7 @@ $ yarn
 # Iniciar o projeto
 $ yarn start
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+Acesse o app no seu browser pelo endereço http://localhost:3000.
 
 Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
 
@@ -46,16 +42,13 @@ Este é um projeto desenvolvido durante a **[Next Level Week Together](https://n
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através do link abaixo:
+Link para o layout do projeto:
 
-- [Layout Web](https://www.figma.com/community/file/1009824839797878169/Letmeask) 
+- <a text-decoration="none" href = "https://www.figma.com/community/file/1009824839797878169/Letmeask) "> LetMeAsk Figma </a>
+ 
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 ## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
