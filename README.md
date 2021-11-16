@@ -17,14 +17,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e abra a pasta.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/aq-simei/LetMeAsk
+$ cd LetMeAsk
 ```
 
 Para iniciá-lo, siga os passos abaixo:
 ```bash
 # Instalar as dependências
-$ yarn
+$ yarn instal
+
+# Instalar SASS
+$ yarn add sass
 
 # Iniciar o projeto
 $ yarn start
